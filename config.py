@@ -1,0 +1,5 @@
+DB_NAME = "job_finder"
+DB_USER = "a12345"
+DB_PASSWORD = ""
+DB_HOST = "localhost"
+DB_PORT = "5432"
